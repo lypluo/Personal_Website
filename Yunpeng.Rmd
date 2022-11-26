@@ -1,0 +1,76 @@
+---
+title: "Yunpeng Luo"
+output: 
+    rmdformats::readthedown:
+    self_contained: true
+    thumbnails: true
+    lightbox: true
+    gallery: true
+    highlight: tango
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+#### Postdoc in 
+**[EE-WSL](https://www.wsl.ch/de/mitarbeitende/gessler.html)** and 
+**[GECO-u^b^](https://stineb.netlify.app/)**  groups
+
+
+:::: {style="display: flex;
+      flex-wrap:nowrap;
+      justify-content:flex-start;
+      align-items:center;
+      column-gap: 10px;
+      "}
+
+::: {style="flex-grow: 1.5;"}
+<!-- ![](./foo/lyp_pic.jpg){width=30%} -->
+```{r, echo=FALSE , out.width="40%",fig.align='left'}
+knitr::include_graphics("./foo/lyp_pic.jpg")
+```
+:::
+
+:::{}
+**Email**: yunpeng.luo@wsl.ch
+
+**Google scholar**: **[link](https://scholar.google.ca/citations?user=i1xigeQAAAAJ&hl=zh-CN)**
+\
+**Researchgate**: **[link](https://www.researchgate.net/profile/Yunpeng-Luo-2)**
+\
+**Twitter**:**[link](https://twitter.com/BgcYluo)**
+\
+**Github**:**[link](https://github.com/lypluo)**
+:::
+::::
+## Professional Experience
+**Swiss Federal Institute for Forest, Snow and Landscape Research**   
+*Apr, 2021 – present*   
+
+## Education
+
+**Max Planck Institute for Biogeochemistry** *Nov, 2015 – Mar, 2021*    
+Ph.D. in Ecology <br/> 
+**Northwest A&F University** *Sep, 2013 – Jul, 2015*    
+M.S. in Ecology <br/>
+**Northwest A&F University** *Sep, 2009 – Jul, 2013*     
+Undergraduate in Forestry 
+
+## Project current involved 
+Now I am investigating the apparent depression of photosynthesis rates in 
+temperate and boreal forests in spring after cold winters, 
+which is a phenomenon that has been overlooked in global models. Through **[PhotoCold](https://www.wsl.ch/de/projekte/cold-stress-mighgt-limit-carbon-gain-also-in-a-warming-climate.html)** 
+and **[Velux](https://veluxstiftung.ch/projects/)** projects, I intend to pinpoint the reasons cause this 
+photosynthetic depression and improve the model efficiency. 
+
+
+## Research Interest 
+Biogeochemical Cycling, Biodiversity, Vegetation Phenology, 
+Ecosystem Stability & Resilience, Economic development and environmental change 
+
+
+---------------------
+Update date: "`r format(Sys.time(), '%d %B, %Y')`"
